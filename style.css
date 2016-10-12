@@ -1,0 +1,29 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.Number {
+  background-color: white;
+  color: black;
+  
+  border: 3px solid #black; /* Green */
+  height: 50px;
+  width: 50px;
+}
+
+.input{
+   width: 205px;
+  height: 60px;
+  font-family:cursive;
+  font-size: 30px;
+  text-align: right;
+  border-width: 3px;
+  border-color: pink;
+}
+
+.Operation{
+  
+  height: 50px;
+  width: 50px;
+  background-color: pink;
+}
